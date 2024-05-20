@@ -1,3 +1,24 @@
-body {
+h1 {
+  color:#62B6CB;
+  font-size: 300px;
+  text-align: center;
+   word-spacing: 10px;
+  text-shadow: 2px 2px 5px #F68E5F;
+  text: decoration line;
+  background-color: #5DFFB1;
+  
+}
 
+body {
+  background-color:#F5DD90;
+}
+img {
+  border: 5px solid gold;
+  border-radius: 110px;
+  width: 25%
+}
+
+img:hover {
+  width: 35%;
+  border: 
 }
