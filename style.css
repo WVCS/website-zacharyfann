@@ -67,19 +67,6 @@ h2 {
 body {
   background-color:#F5DD90;
 }
-nav{
-  list-style-type:none;
-  background-color:#5DFFB1;
-  position:fixed;
-  width: 100vw;
-    top:0;
-    left:0;
-    color:#62B6CB;
-  padding:15px;
-  font-size: 20px;
-  text-align:left;
-    
-}
 
 li {
   display: inline;
@@ -111,19 +98,6 @@ h2 {
 body {
   background-color:#F5DD90;
 }
-nav{
-  list-style-type:none;
-  background-color:#5DFFB1;
-  position:fixed;
-  width: 100vw;
-    top:0;
-    left:0;
-    color:#62B6CB;
-  padding:15px;
-  font-size: 20px;
-  text-align:left;
-    
-}
 
 li {
   display: inline;
@@ -154,19 +128,6 @@ h2 {
 
 body {
   background-color:#F5DD90;
-}
-nav{
-  list-style-type:none;
-  background-color:#5DFFB1;
-  position:fixed;
-  width: 100vw;
-    top:0;
-    left:0;
-    color:#62B6CB;
-  padding:15px;
-  font-size: 20px;
-  text-align:left;
-    
 }
 
 li {
@@ -204,17 +165,6 @@ body {
   background-color:#F5DD90;
 
 }
-nav{
-  list-style-type:none;
-  background-color:#5DFFB1;
-  position:fixed;
-  width: 100vw;
-    top:0;
-    left:0;
-    color:#62B6CB;
-  padding:15px;
-  font-size: 20px;
-  text-align:left;
     
 }
 
