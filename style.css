@@ -2,7 +2,7 @@ h1 {
   color:#62B6CB;
   text-align: center;
   text-shadow: 2px 2px 6px gold;
-  
+  padding:10px;
   
 }
 
@@ -53,7 +53,7 @@ h1 {
   color:#62B6CB;
   text-align: center;
   text-shadow: 2px 2px 6px gold;
-  
+  padding:10px;
 }
 
 h2 {
@@ -84,7 +84,7 @@ h1 {
   color:#62B6CB;
   text-align: center;
   text-shadow: 2px 2px 6px gold;
-  
+  padding:10px;
 }
 
 h2 {
@@ -115,7 +115,7 @@ h1 {
   color:#62B6CB;
   text-align: center;
   text-shadow: 2px 2px 6px gold;
-  
+  padding:10px;
 }
 
 h2 {
@@ -146,7 +146,7 @@ h1 {
   color:#62B6CB;
   text-align: center;
   text-shadow: 2px 2px 6px gold;
-  
+  padding:10px;
 }
 iframe {
   height:1000px;
