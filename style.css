@@ -47,8 +47,10 @@ a {
 p{
   text-align: left;
   color:white;
-  padding:20px;
+  padding:40px;
   font-size:20px;
+  width: 500px;
+  height:500px;
 }
 
 
